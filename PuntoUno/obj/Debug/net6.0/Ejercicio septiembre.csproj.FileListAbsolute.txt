@@ -1,0 +1,15 @@
+C:\Users\ESTUDIANTE\Desktop\OOP\obj\Debug\net6.0\Ejercicio septiembre.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTE\Desktop\OOP\obj\Debug\net6.0\Ejercicio septiembre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTUDIANTE\Desktop\OOP\obj\Debug\net6.0\Ejercicio septiembre.AssemblyInfoInputs.cache
+C:\Users\ESTUDIANTE\Desktop\OOP\obj\Debug\net6.0\Ejercicio septiembre.AssemblyInfo.cs
+C:\Users\ESTUDIANTE\Desktop\OOP\obj\Debug\net6.0\Ejercicio septiembre.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Desktop\OOP\bin\Debug\net6.0\Ejercicio septiembre.exe
+C:\Users\ESTUDIANTE\Desktop\OOP\bin\Debug\net6.0\Ejercicio septiembre.deps.json
+C:\Users\ESTUDIANTE\Desktop\OOP\bin\Debug\net6.0\Ejercicio septiembre.runtimeconfig.json
+C:\Users\ESTUDIANTE\Desktop\OOP\bin\Debug\net6.0\Ejercicio septiembre.dll
+C:\Users\ESTUDIANTE\Desktop\OOP\bin\Debug\net6.0\Ejercicio septiembre.pdb
+C:\Users\ESTUDIANTE\Desktop\OOP\obj\Debug\net6.0\Ejercicio septiembre.dll
+C:\Users\ESTUDIANTE\Desktop\OOP\obj\Debug\net6.0\refint\Ejercicio septiembre.dll
+C:\Users\ESTUDIANTE\Desktop\OOP\obj\Debug\net6.0\Ejercicio septiembre.pdb
+C:\Users\ESTUDIANTE\Desktop\OOP\obj\Debug\net6.0\Ejercicio septiembre.genruntimeconfig.cache
+C:\Users\ESTUDIANTE\Desktop\OOP\obj\Debug\net6.0\ref\Ejercicio septiembre.dll
